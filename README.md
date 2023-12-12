@@ -4,7 +4,10 @@
 Créer une base de données à partir de diagramme MERISE pour un site de e-commerce.
 
 ## MERISE
+Méthode d'Etude et de Réalisation Informatique pour les Systèmes d'Entreptrise
 
+![MCD AuBonDeal](/AuBonDeal/mcd%20aubondeal.png)
+![MLD AuBonDeal](/AuBonDeal/mld%20aubondeal.png)
 ### Users table
 
 ```postgresql
