@@ -1,13 +1,13 @@
 # Brief AuBonDeal BDD Postgresql
 
+## [MERISE](/MERISE.MD)
 ## Description
 Créer une base de données à partir de diagramme MERISE pour un site de e-commerce.
 
-## MERISE
-Méthode d'Etude et de Réalisation Informatique pour les Systèmes d'Entreptrise
 
-![MCD AuBonDeal](/AuBonDeal/mcd%20aubondeal.png)
-![MLD AuBonDeal](/AuBonDeal/mld%20aubondeal.png)
+
+![MCD AuBonDeal](/mcd%20aubondeal.png)
+![MLD AuBonDeal](/mld%20aubondeal.png)
 ### Users table
 
 ```postgresql
